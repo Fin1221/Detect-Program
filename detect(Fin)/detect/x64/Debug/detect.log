@@ -1,0 +1,7 @@
+﻿  detect.cpp
+C:\Users\Buyer\source\repos\detect\detect\detect.cpp(20,16): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\Buyer\source\repos\detect\detect\detect.cpp(23,9): warning C4996: 'stricmp': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _stricmp. See online help for details.
+C:\Users\Buyer\source\repos\detect\detect\detect.cpp(17,8): warning C4101: 'exitcode' :참조되지 않은 지역 변수입니다.
+C:\Users\Buyer\source\repos\detect\detect\detect.cpp(15,7): warning C4101: 'buffer' :참조되지 않은 지역 변수입니다.
+  LINK : C:\Users\Buyer\source\repos\detect\x64\Debug\detect.exe을(를) 찾을 수 없거나 마지막 증분 링크에 의해 빌드되지 않았습니다. 전체 링크를 수행하고 있습니다.
+  detect.vcxproj -> C:\Users\Buyer\source\repos\detect\x64\Debug\detect.exe
